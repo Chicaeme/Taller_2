@@ -1,1 +1,4 @@
-variable = 3.1415
+c = True
+b = False
+
+print(c and b)
