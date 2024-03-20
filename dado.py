@@ -1,6 +1,6 @@
 import random
 
-numero = random.randint(0,6)
+numero = random.randint(2,12)
 
 if numero==7:
     print("Ganaste")
